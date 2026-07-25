@@ -1,0 +1,22 @@
+[
+  {
+    "tag": "YENİ",
+    "title": "Sunucu Güncellemesi v2.4",
+    "description": "Yeni oyun modu eklendi - ArenaPvP Season 1 başladı!"
+  },
+  {
+    "tag": "BAKIM",
+    "title": "Sunucu Bakımı - Her gün",
+    "description": "Sabah 06:00 saatleri arasında her zaman yeniden başlatılır."
+  },
+  {
+    "tag": "GÜNCELLEME",
+    "title": "Anti-Cheat Güncellendi",
+    "description": "Hile engelleme sistemimiz daha geniş çaplı hale getirildi."
+  },
+  {
+    "tag": "ETKİNLİK",
+    "title": "Haftalık Etkinlik",
+    "description": "Bazen her gün, bazen nadiren 20:00'de büyük ödüller!"
+  }
+]
